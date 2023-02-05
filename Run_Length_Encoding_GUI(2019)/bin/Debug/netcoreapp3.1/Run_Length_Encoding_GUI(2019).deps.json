@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Run_Length_Encoding_GUI(2019)/1.0.0": {
+        "runtime": {
+          "Run_Length_Encoding_GUI(2019).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Run_Length_Encoding_GUI(2019)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
