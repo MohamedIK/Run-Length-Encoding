@@ -14,3 +14,19 @@ E:\College\Year 2\Second Term\File Organization\Project\Run_Length_Encoding_GUI(
 E:\College\Year 2\Second Term\File Organization\Project\Run_Length_Encoding_GUI(2019)\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).dll
 E:\College\Year 2\Second Term\File Organization\Project\Run_Length_Encoding_GUI(2019)\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).pdb
 E:\College\Year 2\Second Term\File Organization\Project\Run_Length_Encoding_GUI(2019)\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).genruntimeconfig.cache
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\bin\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).exe
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\bin\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).deps.json
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\bin\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).runtimeconfig.json
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\bin\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).runtimeconfig.dev.json
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\bin\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).dll
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\bin\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).pdb
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).csproj.AssemblyReference.cache
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI_2019_.Form1.resources
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).csproj.GenerateResource.cache
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).AssemblyInfoInputs.cache
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).AssemblyInfo.cs
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).csproj.CoreCompileInputs.cache
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).dll
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).pdb
+E:\Courses\edX\CS50x22\Run-Length-Encoding-main\Run_Length_Encoding_GUI(2019)\obj\Debug\netcoreapp3.1\Run_Length_Encoding_GUI(2019).genruntimeconfig.cache

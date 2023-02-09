@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\My Laptop\\E\\College\\Year 2\\Second Term\\File Organization\\Project\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019).csproj",
+      "projectUniqueName": "E:\\Courses\\edX\\CS50x22\\Run-Length-Encoding-main\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019).csproj",
       "projectName": "Run_Length_Encoding_GUI(2019)",
-      "projectPath": "K:\\My Laptop\\E\\College\\Year 2\\Second Term\\File Organization\\Project\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019).csproj",
+      "projectPath": "E:\\Courses\\edX\\CS50x22\\Run-Length-Encoding-main\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019).csproj",
       "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-      "outputPath": "K:\\My Laptop\\E\\College\\Year 2\\Second Term\\File Organization\\Project\\Run_Length_Encoding_GUI(2019)\\Run_Length_Encoding_GUI(2019)\\obj\\",
+      "outputPath": "E:\\Courses\\edX\\CS50x22\\Run-Length-Encoding-main\\Run_Length_Encoding_GUI(2019)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",

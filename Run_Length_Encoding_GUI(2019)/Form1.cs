@@ -106,13 +106,16 @@ namespace Run_Length_Encoding_GUI_2019_
 
             if (size2 < size1)
             {
-                double ratio = Math.Round((size2 / size1) * 100, 2);
+                double ratio = Math.Round((1 - (size2 / size1)) * 100, 2);
+                double saved = Math.Round((size2 / size1) * 100, 2);
 
                 label2.Text = "Size of original file: " + size1 + " Bytes" + "\r\n";
 
                 label2.Text += "Size of compressed file: " + size2 + " Bytes" + "\r\n";
 
-                label2.Text += "Compression Percentage: " + ratio + "%" + "\r\n";
+                label2.Text += "Compression ratio: " + ratio + "%" + "\r\n";
+
+                label2.Text += "Space saved: " + saved + "%" + "\r\n";
 
                 label2.Text += "Time elapsed in milliseconds: " + sw.Elapsed.TotalMilliseconds + " ms";
             }
